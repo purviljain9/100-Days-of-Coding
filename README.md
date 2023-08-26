@@ -1,1 +1,1 @@
-# 100-Days-on-Coding
+# 100-Days-of-Coding
